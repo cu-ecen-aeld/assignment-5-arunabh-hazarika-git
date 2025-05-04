@@ -2,3 +2,9 @@
 build/
 .vscode/
 *.log
+.credentials
+.credentials_rsaparams
+.env
+.path
+.runner
+
