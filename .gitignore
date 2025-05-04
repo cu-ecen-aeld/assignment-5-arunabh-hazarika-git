@@ -7,4 +7,5 @@ build/
 .env
 .path
 .runner
+bin/
 
