@@ -1,1 +1,1 @@
-source "$BR2_EXTERNAL_ASSIGN_4_2_PATH/package/aesd-assignments/Config.in"
+source "$BR2_EXTERNAL_ASSIGN_5_2_PATH/package/aesd-assignments/Config.in"
